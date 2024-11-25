@@ -18,5 +18,5 @@ My first repository
 - **Why I Love It:**  
   The epic battles between Autobots and Decepticons, paired with incredible visual effects, always leave me in awe.  
 
----
-*These movies inspire me with their storytelling, action, and character development.* 
+
+
